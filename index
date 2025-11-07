@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IoT05B - Quantum Hydrogen Forecasting</title>
+</head>
+<body>
+    <h1>IoT05B — Quantum Hydrogen Forecasting</h1>
+    <p>Welcome to our IoT project homepage!</p>
+
+    <h2>About the Project</h2>
+    <p>This project focuses on Quantum Hydrogen Forecasting using IoT sensors for data collection and cloud analytics for predictive modeling.</p>
+
+    <h2>Team Members</h2>
+    <ul>
+        <li>Member 1 — Leader</li>
+        <li>Member 2 — Hardware</li>
+        <li>Member 3 — Software</li>
+    </ul>
+
+    <h2>Tools and Technologies</h2>
+    <ul>
+        <li>ESP32</li>
+        <li>DHT11 Sensor</li>
+        <li>NodeMCU</li>
+        <li>MQTT Broker</li>
+        <li>ThingSpeak / Firebase</li>
+        <li>HTML, CSS, JavaScript</li>
+    </ul>
+
+    <h2>Repository Links</h2>
+    <ul>
+        <li><a href="https://github.com/mkha0172-star/IoT05B">GitHub Repository</a></li>
+        <li><a href="README.md">Project README</a></li>
+    </ul>
+</body>
+</html>
